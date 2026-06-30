@@ -1,4 +1,8 @@
+![Python Programming Language logo](logo.png)
+
 # Python Programming Language
+
+
 
 A collection of daily Python practice notebooks covering core language fundamentals — built while learning Python with the goal of becoming a backend/automation-focused developer.
 
