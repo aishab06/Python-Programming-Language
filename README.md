@@ -1,4 +1,3 @@
-![Python Programming Language logo](logo.png)
 
 # Python Programming Language
 
